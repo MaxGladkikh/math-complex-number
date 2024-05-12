@@ -1,5 +1,5 @@
 {
-    "name":"MaxGladkikh/math-complex-number",
+    "name":"max-gladkikh/math-complex-number",
     "description":"Library for working with complex numbers",
     "require": {
         "php": ">=7.0",

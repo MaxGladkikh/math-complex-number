@@ -1,6 +1,11 @@
 {
     "name":"max-gladkikh/math-complex-number",
+    "type": "library",
     "description":"Library for working with complex numbers",
+    "license": "MIT",
+    "authors": [
+        {"name": "Maksim Gladkikh", "email": "max.gdkh@gmail.com"}
+    ],
     "require": {
         "php": ">=7.0",
         "ext-bcmath" : "*"

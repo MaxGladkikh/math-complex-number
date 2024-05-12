@@ -4,5 +4,5 @@ namespace ComplexMath\Exception;
 
 class ExceptionCodes
 {
-    public const DIVISION_BY_ZERO = 666;
+    const DIVISION_BY_ZERO = 666;
 }

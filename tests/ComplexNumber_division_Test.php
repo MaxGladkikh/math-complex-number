@@ -28,7 +28,7 @@ final class ComplexNumber_division_Test extends TestCase
         int $calculatingScale,
         array $expectedResFirstDivSecond,
         array $expectedResSecondDivFirst
-    ): void {
+    ) {
         $complexNumberCalculator = new ComplexNumberCalculator();
         $firstComplexNumber = new ComplexNumber($firstComplexNumberParams['real'], $firstComplexNumberParams['imaginary']);
         $secondComplexNumber = new ComplexNumber($secondComplexNumberParams['real'], $secondComplexNumberParams['imaginary']);
